@@ -1,0 +1,18 @@
+{
+  "name": "economy-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot for simulating an economy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.12",
+    "discord.js": "^14.17.3",
+    "djs-commander": "^0.0.50",
+    "dotenv": "^16.4.7"
+  }
+}
